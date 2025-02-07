@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "925106459739",
+    "project_id": "sparkradius-customer",
+    "storage_bucket": "sparkradius-customer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925106459739:android:799f5933bbf7dd8f339b7e",
+        "android_client_info": {
+          "package_name": "sparkradiuscustomerinfo.in"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQ0wx-k6Qv6C2K3s0FDTUn9bA-wMxellQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
